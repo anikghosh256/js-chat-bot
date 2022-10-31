@@ -1,0 +1,23 @@
+{
+  "name": "js-chat-bot",
+  "version": "1.0.0",
+  "description": "Terminal based chat-bot using github copilot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anikghosh256/js-chat-bot.git"
+  },
+  "keywords": [
+    "chat-bot",
+    "terminal"
+  ],
+  "author": "Anik Ghosh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anikghosh256/js-chat-bot/issues"
+  },
+  "homepage": "https://github.com/anikghosh256/js-chat-bot#readme"
+}
