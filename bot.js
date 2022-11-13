@@ -135,19 +135,19 @@ class ChatBot {
           "who is your daddy"
         ],
         responses: [
-          "That would be you Mr. Vishal",
-          "I was created by Mr. Vishal",
-          "Mr. vishal is my creator"
+          "That would be .....",
+          "I was created by .....",
+          "... is my creator"
         ],
         context_set: ""
       },
       {
         tag: "myself",
         patterns: [
-          "Tell me about Mr. Vishal?",
-          "Who is Mr. Vishal",
-          "Mr. vishal profile",
-          "Mr. Vishal details"
+          "Tell me about ....?",
+          "Who is ....",
+          ".... profile",
+          ".... details"
         ],
         responses: [
           "A very intelligent being who created me",
